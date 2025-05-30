@@ -1,19 +1,23 @@
 # 🛒 Market Basket Analysis  
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-This project explores shopping basket data to find associations between products using market basket analysis techniques like the Apriori algorithm.
+## 📦 Market Basket Analysis
+
+This project focuses on uncovering association rules and product groupings from transactional datasets using Market Basket Analysis techniques.
 
 ---
 
-## 📌 Objectives
-- Discover frequent itemsets
-- Identify strong association rules
-- Provide actionable insights for cross-selling strategies
+### 🎯 Objectives
+
+* Provide actionable insights for cross-selling strategies
+* Discover frequent itemsets and association rules
+* Visualize relationships among products
 
 ---
 
-## 📂 Folder Structure
+### 📁 Folder Structure
 
+```
 📂 market-basket-analysis
 ├── 📁 data
 │   ├── 📁 raw
@@ -31,3 +35,30 @@ This project explores shopping basket data to find associations between products
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+```
+
+---
+
+### 🚀 Status
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+---
+
+### 🛠️ Tools & Libraries
+
+* Python · Pandas · Mlxtend · Matplotlib · Seaborn · Jupyter Notebook
+
+---
+
+### 📌 Next Steps
+
+* Complete EDA
+* Implement Apriori and FP-Growth algorithms
+* Visualize association rules
+* Interpret insights for business strategy
+
+---
+
+🔗 This project is part of a 3-project portfolio (with Customer Churn Prediction and Customer Segmentation).
